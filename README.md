@@ -1,6 +1,6 @@
 👋 Hi, I’m Mark Jake O. Alvizo!
 
-🎓 BSIT Graduate from Caraga State University – Cabadbaran Campus
+🎓 BSIT Under Graduate from Caraga State University – Cabadbaran Campus
 💻 Aspiring IT professional with an interest in web development, systems, and technology-driven solutions
 🌱 Currently improving my skills in programming, problem-solving, and software development
 📚 Enjoys learning through hands-on projects and continuous practice
